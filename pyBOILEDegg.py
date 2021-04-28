@@ -241,7 +241,7 @@ plt.savefig('{}_BOILED_Egg.pdf'.format(prefix))
 
 print("If you use this program in your research, please cite\n")
 print("\n")
-print("Bruce Milne. (2021, April 28). bfmilne/pyBOILEDegg:
+print("Bruce Milne. (2021, April 28). bfmilne/pyBOILEDegg:\n")
 print("First release of pyBOILEDegg (Version v1.0.0).\n")
 print("Zenodo. http://doi.org/10.5281/zenodo.4725530\n")
 print("\n")
