@@ -29,7 +29,9 @@ __license__ = "GPL"
 '''
 Program usage.
 
-Requires as input 3D molecular structure(s) in a single SDF format file:
+Requires input molecule(s) in a single SDF format file. 
+
+Run as:
 
 prompt$ python pyBOILEDegg.py
 
