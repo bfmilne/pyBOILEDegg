@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 '''
-    pyBOILEDegg.py : a python program for prediction of gastrointestinal
+    PyBOILEDegg.py : a python program for prediction of gastrointestinal
     absorption and brain penetration of molecules.
 
     Copyright (C) 2021  Bruce F. Milne
