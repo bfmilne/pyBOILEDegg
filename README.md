@@ -1,4 +1,4 @@
-# pyBOILEDegg.py
+# PyBOILEDegg.py
 Python 3 program to predict absorption/distribution characteristics of molecules in the human body through likelyhood of gastrointenstinal absorption and ability to cross the blood-brain-barrier.
 
 The program implements the Brain Or IntestinaL EstimateD absorption (BOILED-egg) method of Daina and Zoete [1] and calculates the topological polar surface area and WlogP for molecules provided in (multi-structure) SDF format. If the TPSA and WlogP values fall within eliptical regions of a scatter plot corresponding to the boundaries of the regression model derived in [1] the corresponding molecule is predicted to display suitable properties for gastrointestinal absorption and also potentially for brain access.
